@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Votre age en seconde</string>
+    <string name="en_seconde_jusqu_aujourd_hui">En seconde Jusqu\'à aujourd\'hui</string>
+    <string name="date_s_lectionn_e">Date sélectionnée</string>
+    <string name="_12_08_1982">12/08/1982</string>
+    <string name="s_lectionner_la_date">SÉLECTIONNER LA DATE</string>
+    <string name="en_secondes">EN SECONDES</string>
+    <string name="age">AGE</string>
+    <string name="calculez_votre">CALCULEZ VOTRE</string>
+    <string name="_14400000">14400000</string>
+</resources>
